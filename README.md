@@ -1,6 +1,5 @@
 # 💫 About Me:
-- I'm currently working as a Full Stack Developer. I have a passion for creating dynamic and responsive web applications using modern technologies. With a strong background in both front-end and back-end development, I enjoy building seamless user experiences and robust server-side functionalities.
-
+**I'm currently working as a Full Stack Developer.I have a passion for creating dynamic and responsive web applications using modern technologies. With a strong background in both front-end and back-end development, I enjoy building seamless user experiences and robust server-side functionalities.**
 
 
 # 💻 Tech Stack:
